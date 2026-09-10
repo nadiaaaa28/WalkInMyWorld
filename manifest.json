@@ -1,0 +1,15 @@
+{
+  "name": "Walk In My World",
+  "short_name": "WalkInMyWorld",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6C63FF",
+  "icons": [
+    {
+      "src": "Logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
